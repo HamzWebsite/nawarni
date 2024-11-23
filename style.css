@@ -1,0 +1,31 @@
+/* Style for the Navbar */
+.navbar {
+    margin-bottom: 20px;
+}
+
+/* Style for the Section Info */
+section.container h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Style for the Table */
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+table th, table td {
+    text-align: center;
+    padding: 10px;
+}
+
+table th {
+    background-color: #343a40;
+    color: white;
+}
+
+table td {
+    background-color: #f8f9fa;
+}
